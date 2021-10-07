@@ -1,0 +1,5 @@
+1. Procesador
+2. Tarjeta gráfica
+3. Gabinete
+4. Fuente de poder
+5. Memoria RAM
